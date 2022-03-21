@@ -1,4 +1,4 @@
-Game,Genre,Year Released,Units Sold (millions)
+game,genre,year_released,units_sold_millions
  Minecraft,Sandbox,2009,238.0
  Grand Theft Auto V,Action Adventure,2013,135.0
  Wii Sports,Sports,2006,82.9
