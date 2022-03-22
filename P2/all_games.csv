@@ -1,0 +1,94 @@
+name,critic_score,user_score,platform,year,genre,global_sales,game_id
+World of Goo,94,8.8,PC,2008.0,Puzzle,0.04,0
+Metal Gear Solid V: The Phantom Pain,95,7.4,PS4,2015.0,Action,3.38,1
+Metal Gear Solid V: The Phantom Pain,95,7.4,XOne,2015.0,Action,0.71,2
+Metal Gear Solid V: The Phantom Pain,95,7.4,PS3,2015.0,Action,0.7,3
+Metal Gear Solid V: The Phantom Pain,95,7.4,X360,2015.0,Action,0.21,4
+Metal Gear Solid V: The Phantom Pain,95,7.4,PC,2015.0,Action,0.08,5
+Portal 2,95,8.4,X360,2011.0,Shooter,2.1,6
+Portal 2,95,8.4,PS3,2011.0,Shooter,1.74,7
+Portal 2,95,8.4,PC,2011.0,Shooter,0.76,8
+Madden NFL 2003,95,7.5,PS2,2002.0,Sports,4.14,9
+Madden NFL 2003,95,7.5,XB,2002.0,Sports,0.71,10
+Madden NFL 2003,95,7.5,GBA,2002.0,Sports,0.61,11
+Madden NFL 2003,95,7.5,GC,2002.0,Sports,0.43,12
+The Last of Us,95,9.2,PS3,2013.0,Action,5.99,13
+The Last of Us,95,9.2,PS4,2014.0,Action,4.55,14
+The Legend of Zelda: Majora's Mask,95,9.2,N64,2000.0,Action,3.36,15
+The Legend of Zelda: A Link to the Past,95,9.0,SNES,1991.0,Action,4.61,16
+The Legend of Zelda: A Link to the Past,95,9.0,GBA,2002.0,Action,2.7,17
+Halo 2,95,8.2,XB,2004.0,Shooter,8.49,18
+Halo 2,95,8.2,PC,2007.0,Shooter,0.1,19
+Gran Turismo 3: A-Spec,95,8.5,PS2,2001.0,Racing,14.98,20
+Red Dead Redemption,95,8.9,PS3,2010.0,Action,6.6,21
+Red Dead Redemption,95,8.9,X360,2010.0,Action,6.34,22
+LittleBigPlanet,95,6.8,PS3,2008.0,Platform,5.92,23
+LittleBigPlanet,95,6.8,PSP,2009.0,Platform,2.58,24
+Grand Theft Auto: Vice City,95,8.7,PS2,2002.0,Action,16.15,25
+Grand Theft Auto: Vice City,95,8.7,PC,2003.0,Action,0.04,26
+Grand Theft Auto: San Andreas,95,9.0,PS2,2004.0,Action,20.81,27
+Grand Theft Auto: San Andreas,95,9.0,XB,2005.0,Action,1.95,28
+Grand Theft Auto: San Andreas,95,9.0,PC,2005.0,Action,0.98,29
+Grand Theft Auto: San Andreas,95,9.0,X360,2008.0,Action,0.12,30
+Metal Gear Solid 2: Sons of Liberty,96,8.8,PS2,2001.0,Action,6.05,31
+Gran Turismo,96,8.6,PS,1997.0,Racing,10.95,32
+The Legend of Zelda: The Wind Waker,96,9.0,GC,2002.0,Action,4.6,33
+The Legend of Zelda: The Wind Waker,96,9.0,WiiU,2013.0,Action,1.77,34
+Half-Life,96,9.0,PC,1997.0,Shooter,4.12,35
+Half-Life,96,9.0,PS2,2001.0,Shooter,0.6,36
+The Elder Scrolls V: Skyrim,96,8.5,X360,2011.0,Role-Playing,8.84,37
+The Elder Scrolls V: Skyrim,96,8.5,PS3,2011.0,Role-Playing,6.56,38
+The Elder Scrolls V: Skyrim,96,8.5,PC,2011.0,Role-Playing,3.88,39
+The Legend of Zelda: Twilight Princess,96,9.1,Wii,2006.0,Action,7.31,40
+The Legend of Zelda: Twilight Princess,96,9.1,GC,2006.0,Action,1.59,41
+Mass Effect 2,96,8.9,X360,2010.0,Role-Playing,3.11,42
+Mass Effect 2,96,8.9,PS3,2011.0,Role-Playing,1.48,43
+Mass Effect 2,96,8.9,PC,2010.0,Role-Playing,0.4,44
+Tekken 3,96,9.1,PS,1998.0,Fighting,7.16,45
+Batman: Arkham City,96,8.7,PS3,2011.0,Action,5.53,46
+Batman: Arkham City,96,8.7,X360,2011.0,Action,4.76,47
+Batman: Arkham City,96,8.7,PC,2011.0,Action,0.53,48
+Batman: Arkham City,96,8.7,WiiU,2012.0,Action,0.38,49
+The Orange Box,96,9.2,X360,2007.0,Shooter,1.83,50
+The Orange Box,96,9.2,PS3,2007.0,Shooter,1.08,51
+The Orange Box,96,9.2,PC,2007.0,Shooter,0.14,52
+Resident Evil 4,96,9.4,PS2,2005.0,Action,3.62,53
+Resident Evil 4,96,9.4,Wii,2007.0,Action,2.26,54
+Resident Evil 4,96,9.4,GC,2005.0,Action,1.69,55
+Resident Evil 4,96,9.4,PC,2007.0,Action,0.03,56
+Uncharted 2: Among Thieves,96,8.8,PS3,2009.0,Action,6.73,57
+GoldenEye 007,96,9.1,N64,1997.0,Shooter,8.09,58
+BioShock,96,8.9,X360,2007.0,Shooter,2.83,59
+BioShock,96,8.9,PS3,2008.0,Shooter,1.45,60
+BioShock,96,8.9,PC,2007.0,Shooter,0.41,61
+Half-Life 2,96,9.2,PC,2004.0,Shooter,2.37,62
+Half-Life 2,96,9.2,XB,2005.0,Shooter,0.61,63
+NFL 2K1,97,6.3,DC,2000.0,Sports,1.09,64
+Halo: Combat Evolved,97,8.6,XB,2001.0,Shooter,6.43,65
+Halo: Combat Evolved,97,8.6,PC,2003.0,Shooter,0.04,66
+Grand Theft Auto III,97,8.5,PS2,2001.0,Action,13.1,67
+Grand Theft Auto III,97,8.5,PC,2002.0,Action,0.01,68
+Metroid Prime,97,9.3,GC,2002.0,Shooter,2.82,69
+Perfect Dark,97,9.0,N64,2000.0,Action,2.52,70
+Tony Hawk's Pro Skater 3,97,7.4,PS2,2001.0,Sports,4.41,71
+Tony Hawk's Pro Skater 3,97,7.4,PS,2001.0,Sports,1.67,72
+Tony Hawk's Pro Skater 3,97,7.4,GC,2001.0,Sports,0.82,73
+Tony Hawk's Pro Skater 3,97,7.4,XB,2002.0,Sports,0.55,74
+Tony Hawk's Pro Skater 3,97,7.4,GBA,2002.0,Sports,0.52,75
+Tony Hawk's Pro Skater 3,97,7.4,N64,2002.0,Sports,0.08,76
+Grand Theft Auto V,96,7.8,PS3,2013.0,Action,21.4,77
+Grand Theft Auto V,96,7.8,X360,2013.0,Action,16.38,78
+Grand Theft Auto V,96,7.8,PS4,2014.0,Action,11.98,79
+Grand Theft Auto V,96,7.8,XOne,2014.0,Action,5.08,80
+Grand Theft Auto V,96,7.8,PC,2015.0,Action,1.08,81
+Super Mario Galaxy 2,97,9.1,Wii,2010.0,Platform,7.69,82
+Super Mario Galaxy,97,9.0,Wii,2007.0,Platform,11.52,83
+SoulCalibur,98,8.6,DC,1999.0,Fighting,0.34,84
+Grand Theft Auto IV,98,7.5,X360,2008.0,Action,11.02,85
+Grand Theft Auto IV,98,7.5,PS3,2008.0,Action,10.57,86
+Grand Theft Auto IV,98,7.5,PC,2008.0,Action,0.88,87
+Tony Hawk's Pro Skater 2,98,7.4,PS,2000.0,Sports,4.68,88
+Tony Hawk's Pro Skater 2,98,7.4,GBA,2001.0,Sports,1.18,89
+Tony Hawk's Pro Skater 2,98,7.4,N64,2001.0,Sports,0.76,90
+The Legend of Zelda: Ocarina of Time,99,9.2,N64,1998.0,Action,7.6,91
+The Legend of Zelda: Ocarina of Time,99,9.2,3DS,2011.0,Action,4.21,92
