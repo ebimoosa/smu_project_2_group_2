@@ -1,4 +1,4 @@
-title,Release year,genre,platform,Sales(million units)
+title,release_date,genre,platform,units_sold
 Minecraft,2009,Sandbox,"PC, Xbox 360 PlayStation 3, Various",238.0
 Grand Theft Auto V,2013,Action Adventure,"PC, PlayStation 3, PlayStation 4, Xbox 360, Xbox One",135.0
 Wii Sports,2006,Sports,Wii,82.9
