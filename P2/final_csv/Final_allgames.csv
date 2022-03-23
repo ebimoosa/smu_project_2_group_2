@@ -1,0 +1,94 @@
+name,critic_score,user_score,year,global_sales,game_id
+World of Goo,94,8.8,2008.0,0.04,0
+Metal Gear Solid V: The Phantom Pain,95,7.4,2015.0,3.38,1
+Metal Gear Solid V: The Phantom Pain,95,7.4,2015.0,0.71,2
+Metal Gear Solid V: The Phantom Pain,95,7.4,2015.0,0.7,3
+Metal Gear Solid V: The Phantom Pain,95,7.4,2015.0,0.21,4
+Metal Gear Solid V: The Phantom Pain,95,7.4,2015.0,0.08,5
+Portal 2,95,8.4,2011.0,2.1,6
+Portal 2,95,8.4,2011.0,1.74,7
+Portal 2,95,8.4,2011.0,0.76,8
+Madden NFL 2003,95,7.5,2002.0,4.14,9
+Madden NFL 2003,95,7.5,2002.0,0.71,10
+Madden NFL 2003,95,7.5,2002.0,0.61,11
+Madden NFL 2003,95,7.5,2002.0,0.43,12
+The Last of Us,95,9.2,2013.0,5.99,13
+The Last of Us,95,9.2,2014.0,4.55,14
+The Legend of Zelda: Majora's Mask,95,9.2,2000.0,3.36,15
+The Legend of Zelda: A Link to the Past,95,9.0,1991.0,4.61,16
+The Legend of Zelda: A Link to the Past,95,9.0,2002.0,2.7,17
+Halo 2,95,8.2,2004.0,8.49,18
+Halo 2,95,8.2,2007.0,0.1,19
+Gran Turismo 3: A-Spec,95,8.5,2001.0,14.98,20
+Red Dead Redemption,95,8.9,2010.0,6.6,21
+Red Dead Redemption,95,8.9,2010.0,6.34,22
+LittleBigPlanet,95,6.8,2008.0,5.92,23
+LittleBigPlanet,95,6.8,2009.0,2.58,24
+Grand Theft Auto: Vice City,95,8.7,2002.0,16.15,25
+Grand Theft Auto: Vice City,95,8.7,2003.0,0.04,26
+Grand Theft Auto: San Andreas,95,9.0,2004.0,20.81,27
+Grand Theft Auto: San Andreas,95,9.0,2005.0,1.95,28
+Grand Theft Auto: San Andreas,95,9.0,2005.0,0.98,29
+Grand Theft Auto: San Andreas,95,9.0,2008.0,0.12,30
+Metal Gear Solid 2: Sons of Liberty,96,8.8,2001.0,6.05,31
+Gran Turismo,96,8.6,1997.0,10.95,32
+The Legend of Zelda: The Wind Waker,96,9.0,2002.0,4.6,33
+The Legend of Zelda: The Wind Waker,96,9.0,2013.0,1.77,34
+Half-Life,96,9.0,1997.0,4.12,35
+Half-Life,96,9.0,2001.0,0.6,36
+The Elder Scrolls V: Skyrim,96,8.5,2011.0,8.84,37
+The Elder Scrolls V: Skyrim,96,8.5,2011.0,6.56,38
+The Elder Scrolls V: Skyrim,96,8.5,2011.0,3.88,39
+The Legend of Zelda: Twilight Princess,96,9.1,2006.0,7.31,40
+The Legend of Zelda: Twilight Princess,96,9.1,2006.0,1.59,41
+Mass Effect 2,96,8.9,2010.0,3.11,42
+Mass Effect 2,96,8.9,2011.0,1.48,43
+Mass Effect 2,96,8.9,2010.0,0.4,44
+Tekken 3,96,9.1,1998.0,7.16,45
+Batman: Arkham City,96,8.7,2011.0,5.53,46
+Batman: Arkham City,96,8.7,2011.0,4.76,47
+Batman: Arkham City,96,8.7,2011.0,0.53,48
+Batman: Arkham City,96,8.7,2012.0,0.38,49
+The Orange Box,96,9.2,2007.0,1.83,50
+The Orange Box,96,9.2,2007.0,1.08,51
+The Orange Box,96,9.2,2007.0,0.14,52
+Resident Evil 4,96,9.4,2005.0,3.62,53
+Resident Evil 4,96,9.4,2007.0,2.26,54
+Resident Evil 4,96,9.4,2005.0,1.69,55
+Resident Evil 4,96,9.4,2007.0,0.03,56
+Uncharted 2: Among Thieves,96,8.8,2009.0,6.73,57
+GoldenEye 007,96,9.1,1997.0,8.09,58
+BioShock,96,8.9,2007.0,2.83,59
+BioShock,96,8.9,2008.0,1.45,60
+BioShock,96,8.9,2007.0,0.41,61
+Half-Life 2,96,9.2,2004.0,2.37,62
+Half-Life 2,96,9.2,2005.0,0.61,63
+NFL 2K1,97,6.3,2000.0,1.09,64
+Halo: Combat Evolved,97,8.6,2001.0,6.43,65
+Halo: Combat Evolved,97,8.6,2003.0,0.04,66
+Grand Theft Auto III,97,8.5,2001.0,13.1,67
+Grand Theft Auto III,97,8.5,2002.0,0.01,68
+Metroid Prime,97,9.3,2002.0,2.82,69
+Perfect Dark,97,9.0,2000.0,2.52,70
+Tony Hawk's Pro Skater 3,97,7.4,2001.0,4.41,71
+Tony Hawk's Pro Skater 3,97,7.4,2001.0,1.67,72
+Tony Hawk's Pro Skater 3,97,7.4,2001.0,0.82,73
+Tony Hawk's Pro Skater 3,97,7.4,2002.0,0.55,74
+Tony Hawk's Pro Skater 3,97,7.4,2002.0,0.52,75
+Tony Hawk's Pro Skater 3,97,7.4,2002.0,0.08,76
+Grand Theft Auto V,96,7.8,2013.0,21.4,77
+Grand Theft Auto V,96,7.8,2013.0,16.38,78
+Grand Theft Auto V,96,7.8,2014.0,11.98,79
+Grand Theft Auto V,96,7.8,2014.0,5.08,80
+Grand Theft Auto V,96,7.8,2015.0,1.08,81
+Super Mario Galaxy 2,97,9.1,2010.0,7.69,82
+Super Mario Galaxy,97,9.0,2007.0,11.52,83
+SoulCalibur,98,8.6,1999.0,0.34,84
+Grand Theft Auto IV,98,7.5,2008.0,11.02,85
+Grand Theft Auto IV,98,7.5,2008.0,10.57,86
+Grand Theft Auto IV,98,7.5,2008.0,0.88,87
+Tony Hawk's Pro Skater 2,98,7.4,2000.0,4.68,88
+Tony Hawk's Pro Skater 2,98,7.4,2001.0,1.18,89
+Tony Hawk's Pro Skater 2,98,7.4,2001.0,0.76,90
+The Legend of Zelda: Ocarina of Time,99,9.2,1998.0,7.6,91
+The Legend of Zelda: Ocarina of Time,99,9.2,2011.0,4.21,92
